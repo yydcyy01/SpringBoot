@@ -1,0 +1,6 @@
+
+SpringBoot_Demo 完成application.properties配置文件的配置
+                完成application.yml配置文件的配置
+                使用SpringBoot集成Mybatis
+                使用SpringBoot集成Junit
+                使用SpringBoot集成SpringData JPA  详情见 对应博客吧. 图文哦  https://blog.csdn.net/azitl/article/details/102533856
